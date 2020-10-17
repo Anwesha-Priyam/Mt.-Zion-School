@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: linear-gradient(#013d34 0%,#175c69 20%,#99508a 100%);
+}
+#welcome{
+    color: cornflowerblue;
+    bottom: 0;       
+}
+marquee{
+    font-size: 40px;
+    color: floralwhite;
+}
